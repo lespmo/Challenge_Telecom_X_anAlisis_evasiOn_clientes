@@ -6,7 +6,7 @@ Limpieza y tranformacion de datos
 Analisis y visualizaciones de los datos
 Hacer el proceso de ETL en ciencia de datos
 
-
+Diccionario de datos
 customerID: número de identificación único de cada cliente
 Churn: si el cliente dejó o no la empresa
 gender: género (masculino y femenino)
